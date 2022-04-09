@@ -1,0 +1,7 @@
+.custom{
+    background-color: beige;
+
+}
+.custom:hover {
+    color: blue;
+}

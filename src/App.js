@@ -1,10 +1,10 @@
 // import Profile from "./components/Profile";
-import HooksDemo from "./components/HooksDemo";
-
+// import BootstrapDemo from "./components/BootstrapDemo";
+import TableData from "./components/Table";
 function App() {
   return (
     <div>
- <HooksDemo />
+ <TableData />
     </div>
   );
 }
